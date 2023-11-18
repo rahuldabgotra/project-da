@@ -1,2 +1,2 @@
-# project-drb
-Dr Buddy: Appointment Booking app for Doctors (Full Stack) 
+# project-da
+Doctor Assistant: Appointment Booking app for Doctors (Full Stack) 
